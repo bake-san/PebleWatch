@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bake-san",
+    "enableMultiJS": true,
+    "longName": "AO-ClockFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/AoFaceA_ICON.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "AO-ClockFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "1b38b2d4-c863-446d-90c4-4b2617a772a6",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
